@@ -1,7 +1,5 @@
 package com.godash.promotion_engine.Promotion;
 
-import com.godash.promotion_engine.Service.ProductService;
-
 import java.util.Map;
 
 public class VolumeBasedPromotion implements Promotion {

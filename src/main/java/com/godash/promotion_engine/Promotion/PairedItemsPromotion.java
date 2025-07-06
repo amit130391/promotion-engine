@@ -1,6 +1,6 @@
-package com.Godash.PromotionEngine.Promotion;
+package com.godash.promotion_engine.Promotion;
 
-import com.Godash.PromotionEngine.Service.ProductService;
+import com.godash.promotion_engine.Service.ProductService;
 
 import java.util.Map;
 
