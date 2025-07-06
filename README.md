@@ -51,10 +51,6 @@ promotion-engine/
 ├── pom.xml
 └── README.md
 
-yaml
-Copy
-Edit
-
 ---
 
 ## ⚙️ How to Run
